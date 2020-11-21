@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lmagoncalo-website/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/lmagoncalo-website/static/js/main.e4213da2.chunk.js",
+    "main.js.map": "/lmagoncalo-website/static/js/main.e4213da2.chunk.js.map",
+    "runtime-main.js": "/lmagoncalo-website/static/js/runtime-main.9a0ea2d5.js",
+    "runtime-main.js.map": "/lmagoncalo-website/static/js/runtime-main.9a0ea2d5.js.map",
+    "static/js/2.d10b599d.chunk.js": "/lmagoncalo-website/static/js/2.d10b599d.chunk.js",
+    "static/js/2.d10b599d.chunk.js.map": "/lmagoncalo-website/static/js/2.d10b599d.chunk.js.map",
+    "static/js/3.91bae112.chunk.js": "/lmagoncalo-website/static/js/3.91bae112.chunk.js",
+    "static/js/3.91bae112.chunk.js.map": "/lmagoncalo-website/static/js/3.91bae112.chunk.js.map",
+    "index.html": "/lmagoncalo-website/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/lmagoncalo-website/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d10b599d.chunk.js.LICENSE.txt": "/lmagoncalo-website/static/js/2.d10b599d.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/lmagoncalo-website/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a0ea2d5.js",
+    "static/js/2.d10b599d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e4213da2.chunk.js"
+  ]
+}
